@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Kapymine Launcher
+Exec=$HOME/Kapymine-Launcher/kapymine-launcher.sh
+Type=Application
+Terminal=false
+Categories=Game;
+Comment=Minecraft-unofficial-launcher
+Icon=kapymine
+StartupWMClass=MinecraftLauncher
+
