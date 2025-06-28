@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/Kapy2003/Kapymine-Launcher/refs/heads/main/kapymine.png" alt="Kapymine Launcher Icon" width="100" />
-
 ## Kapymine Launcher
 Kapymine Launcher is a simple, user-friendly Bash-based Minecraft launcher wrapper.  
 It automates:
