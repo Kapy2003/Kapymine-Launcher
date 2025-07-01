@@ -146,7 +146,7 @@ fi
 
   response=$?
 
-  if [[ "$action" == "Install New" ]]; then
+  if [[ "$action" == "Install New Version" ]]; then
     "$PRISM_APPIMAGE" &
     break
   elif [[ $response -eq 0 ]]; then
