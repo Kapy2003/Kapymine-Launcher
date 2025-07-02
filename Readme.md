@@ -17,7 +17,7 @@ It automates:
 ✅ Automatically fetches the latest Minecraft version from [PrismLauncher By Diegiwg](https://github.com/Diegiwg/PrismLauncher-Cracked)<br>
 ✅ Creates PrismLauncher-compatible instances  
 ✅ Offline account setup for quick testing  
-✅ Zenity-based graphical menus:
+✅ Zenity-based graphical menus:<br>
 ✅ Supports uninstall via a dedicated script  
 
 ---
