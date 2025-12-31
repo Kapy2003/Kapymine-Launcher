@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Kapymine Launcher
-Exec=$HOME/kapymine-Launcher/kapymine-launcher.sh
+Exec=$HOME/kapymine-launcher/kapymine-launcher.sh
 Type=Game;Application;
 Terminal=false
 Categories=Game;ActionGame;AdventureGame;Simulation;
