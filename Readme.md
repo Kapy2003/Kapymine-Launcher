@@ -41,7 +41,7 @@ Kapymine-Launcher/
 
 ```bash
 pacman -S --needed git base-devel
-git clone https://github.com/Kapy2003/Kapymine-Launcher.git
+git clone https://github.com/Kapy2003/Kapymine-Launcher.git --depth 1
 cd Kapymine-Launcher
 ./install.sh
 ```
