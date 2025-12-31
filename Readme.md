@@ -41,15 +41,15 @@ Kapymine-Launcher/
 
 ```bash
 pacman -S --needed git base-devel
-git clone https://github.com/Kapy2003/kapymine-Launcher.git --depth 1
-cd kapymine-Launcher
+git clone https://github.com/Kapy2003/kapymine-launcher.git --depth 1
+cd kapymine-launcher
 ./install.sh
 ```
 
 2. **Uninstallation**
 
 ```bash
-cd kapymine-Launcher
+cd kapymine-launcher
 ./uninstall.sh
 ```
 
